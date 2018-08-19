@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/NKA_Portfolio">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="500" maxIdle="150" maxWait="10000" name="jdbc/gameapp" password="" type="javax.sql.DataSource" url="jdbc:mysql://127.0.0.1:3306/gameapp?useSSL=false" username=""/>
+</Context>
